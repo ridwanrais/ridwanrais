@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer currently interested in deepening my understanding of Golang and backend services in general.
+
+You can reach me through LinkedIn by visitng this link: https://www.linkedin.com/in/ridwan-rais-firdaus-5a53a9193/
+
 <!--
 **ridwanrais/ridwanrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
